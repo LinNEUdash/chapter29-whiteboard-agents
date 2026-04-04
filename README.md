@@ -41,7 +41,7 @@ When agent boundaries are drawn around job roles instead of data dependencies, C
 
 ## Video
 
-[YouTube link — unlisted](YOUR_VIDEO_LINK_HERE)
+[YouTube link — unlisted](https://youtu.be/GFEY88LoO6s)
 
 ## Master Argument
 
